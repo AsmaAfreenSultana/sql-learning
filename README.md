@@ -18,3 +18,7 @@ Each folder corresponds to a chapter of study. Inside you'll find:
 MSc in Mathematics and Statistics, BSc in Computer Science.
 Currently refreshing and deepening my technical skills for data analyst roles in Prague.
 Thank you for your time. 
+
+## Progress
+- Chapter 1 complete: Hello PostgreSQL
+- Chapter 2 complete: Building Your First Database
