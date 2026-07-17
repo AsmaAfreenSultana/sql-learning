@@ -6,7 +6,10 @@
 - PostgreSQL processes queries in this order FROM → WHERE → SELECT → ORDER BY → LIMIT
 - NULL means "unknown", not "empty" - use IS NULL, never = NULL
 - ILIKE is case-insensitive LIKE - use it for text searches
-
+- NULL means the field value is missing or unknown — the data was 
+  never entered. Zero is a valid number. An empty string '' is a 
+  valid text value with no characters. PostgreSQL treats all three 
+  as completely different things — NULL ≠ 0 ≠ ''
 ## Mistakes I made
 - Have made mistake in COALESCE(nationality:: TEXT, 'UNKNOWN') where we didnt need to do any type casting cause the datatype was already TEXT
 - I havent used IN function when looking for german and czech nationality authors in where clause
