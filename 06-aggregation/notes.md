@@ -32,3 +32,8 @@ HAVING SUM(price) > 300  -- filters groups whose total exceeds 300
 
 I did all the exercises correctly except 1 which was exercise 12 where i needed to add DISTINCT ON (month). This chapter felt like a turning point — I could see how SQL 
 answers real business questions, not just retrieve data.
+
+-why is this chapter the transition from "database user" to "analyst"?
+-Earlier chapters were about data entry and retrieval — inserting, updating, and filtering rows. Chapter 6 is where SQL became a tool for answering real business questions. For the first time I could 
+calculate total revenue, identify the most profitable authors, see which books were popular, and understand each customer's contribution to the business. That shift from retrieving data to analysing it is 
+what makes this chapter the transition from database user to analyst.
