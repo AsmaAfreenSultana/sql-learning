@@ -20,5 +20,13 @@ Currently refreshing and deepening my technical skills for data analyst roles in
 Thank you for your time. 
 
 ## Progress
+
 - Chapter 1 complete: Hello PostgreSQL
 - Chapter 2 complete: Building Your First Database
+- Chapter 3 complete: Querying With Purpose
+- Chapter 4 complete: Changing Data Safely
+- Chapter 5 complete: Relationships and JOINs
+- Chapter 6 complete: Aggregation and Grouping
+- Chapter 7 complete: Subqueries, CTEs, and Views
+- Chapter 8 in progress: Window Functions and Interview Patterns
+- Chapter 9 upcoming: PostgreSQL Power Tools
