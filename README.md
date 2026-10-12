@@ -1,8 +1,7 @@
 # SQL Learning — PostgreSQL
 
-My journey learning SQL and PostgreSQL, working toward a Data Analyst role.
-
-Built using a fictional Prague bookshop database called **Knihy a Kafe** (Books & Coffee).
+My journey learning SQL and PostgreSQL, from first query to window functions.
+Built using a fictional Prague bookshop database called **Knihy a Kafe**(Books & Coffee). working toward a Data Analyst role.
 
 ## What's here
 
@@ -13,11 +12,12 @@ Each folder corresponds to a chapter of study. Inside you'll find:
 ## Tools used
 - PostgreSQL 17
 - psql (command-line client)
+- Git & GitHub
 
 ## About me
-MSc in Mathematics and Statistics, BSc in Computer Science.
+MSc in Mathematics, BSc in Computer Science, Statistics and Mathematics.
 Currently refreshing and deepening my technical skills for data analyst roles in Prague.
-Thank you for your time. 
+Thank you for your time. Building analytical SQL fluency for data analyst roles in Prague
 
 ## Progress
 
@@ -28,5 +28,5 @@ Thank you for your time.
 - Chapter 5 complete: Relationships and JOINs
 - Chapter 6 complete: Aggregation and Grouping
 - Chapter 7 complete: Subqueries, CTEs, and Views
-- Chapter 8 in progress: Window Functions and Interview Patterns
+- Chapter 8 complete: Window Functions and Interview Patterns
 - Chapter 9 upcoming: PostgreSQL Power Tools
